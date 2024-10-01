@@ -1,0 +1,23 @@
+{
+    "name": "stougeiro/mail",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "stougeiro",
+            "email": "sidneytougeiro@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "STDW\\Mail\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.1",
+        "phpmailer/phpmailer": "6.9.1",
+        "stougeiro/contract": "0.6.0",
+        "stougeiro/schema": "0.1.0"
+    }
+}
