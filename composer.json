@@ -18,6 +18,6 @@
         "php": "^8.1",
         "phpmailer/phpmailer": "6.9.1",
         "stougeiro/contract": "0.6.0",
-        "stougeiro/schema": "0.3.0"
+        "stougeiro/schema": "0.4.0"
     }
 }
